@@ -1,4 +1,4 @@
-# 📚 Gestionnaire de Bibliothèque - Rapport de Projet CI/CD
+# Rapport de Projet CI/CD
 
 Ce dépôt contient le code source et la configuration d'Intégration Continue (CI) pour une application de gestion de bibliothèque basée sur **Spring Boot**.
 
